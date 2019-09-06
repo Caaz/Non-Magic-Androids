@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Non-Magic Androids Patch</name>
+	<author>Caaz</author>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+	<description>Removes the ability for androids from Android Tiers to have Magic from Magic of Rimworld.</description>
+</ModMetaData>
